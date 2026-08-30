@@ -1,7 +1,7 @@
-# Hi there! I'm Sadman Zaman Khan 👋
-### UI/UX & Brand Designer | Front-end Developer
+# Hi there! I'm Sadman Zaman Khan
+### UI/UX & Brand Designer
 
-I am a designer who codes, passionate about crafting high-end, clean user interfaces and crafting cohesive brand identities. I focus on creating pixel-perfect digital experiences where aesthetics meet functionality. Co-founder of **Clandest.agency**.
+I push pixels. Co-founder of **Clandest.agency**.
 
 ---
 
