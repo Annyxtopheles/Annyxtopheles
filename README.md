@@ -1,9 +1,7 @@
-![3299700cb33c54](https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1)
-
 # Hello, I'm Sadman Zaman Khan
 ### UI/UX & Brand Designer
 
-I push pixels. In the middle of co-founding **Clandest.agency**.
+I push pixels. In the middle of co-founding **Clandest.agency** and operating as the sole UI/UX designer at SJ Innovation. I specialize in AI-augmented prototyping and enterprise brand systems.
 
 <table border="0">
   <tr>
@@ -12,11 +10,14 @@ I push pixels. In the middle of co-founding **Clandest.agency**.
       <img src="https://img.shields.io/badge/Figma-18181B.svg?style=flat-square&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Illustrator-008088.svg?style=flat-square&logo=adobeillustrator&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Photoshop-18181B.svg?style=flat-square&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Brand%20Systems-008088.svg?style=flat-square&logo=designernews&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Dev & Frontend</h4>
+      <h4>💻 Dev, AI & CMS</h4>
       <img src="https://img.shields.io/badge/HTML5-18181B.svg?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-008088.svg?style=flat-square&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Ollama-18181B.svg?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/WordPress-008088.svg?style=flat-square&logo=wordpress&logoColor=white" />
     </td>
   </tr>
 </table>
