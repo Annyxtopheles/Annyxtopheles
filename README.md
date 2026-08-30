@@ -1,7 +1,9 @@
+![3299700cb33c54](https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1)
+
 # Hello, I'm Sadman Zaman Khan
 ### UI/UX & Brand Designer
 
-I push pixels. Co-founder of **Clandest.agency**.
+I push pixels. In the middle of co-founding **Clandest.agency**.
 
 <table border="0">
   <tr>
