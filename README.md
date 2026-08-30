@@ -28,11 +28,3 @@ I push pixels. Co-founder of **Clandest.agency**.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/clandest.agency)
 [![Email](https://img.shields.io/badge/Email-clandest.agency%40gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:clandest.agency@gmail.com)
 [![Website](https://img.shields.io/badge/Website-clandest.agency-%232E4F94.svg?style=flat-square)](https://annyxtopheles.github.io/clandest-agency-site/)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annyxtopheles&show_icons=true&theme=nord&hide_border=true&bg_color=181a1b&title_color=2E4F94&text_color=bfdbfe&icon_color=2E4F94" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annyxtopheles&layout=compact&theme=nord&hide_border=true&bg_color=181a1b&title_color=2E4F94&text_color=bfdbfe" height="150" />
-</p>
