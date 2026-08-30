@@ -22,15 +22,11 @@ I push pixels. In the middle of co-founding **Clandest.agency** and operating as
   </tr>
 </table>
 
----
-
 ### 🍿 Media & Consumption
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-18181B.svg?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/Annyxtopheles/)
 [![Last.fm](https://img.shields.io/badge/Last.fm-008088.svg?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Asphyxtonihil)
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-18181B.svg?style=flat-square&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Annyxtopheles)
 ![YouTube](https://img.shields.io/badge/YouTube-800%2B_Watch_Later_Hoarder-008088.svg?style=flat-square&logo=youtube&logoColor=white)
-
----
 
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadmanzamankhan/)
