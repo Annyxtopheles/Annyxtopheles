@@ -3,9 +3,10 @@
 
 I push pixels. Co-founder of **Clandest.agency**.
 
-<a href="https://annyxtopheles.github.io/clandest-agency-site/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=annyxtopheles&repo=clandest-agency-site&theme=dark&bg_color=18181B&title_color=008088&icon_color=008088" width="100%" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annyxtopheles&show_icons=true&bg_color=18181B&title_color=008088&icon_color=008088&text_color=FFFFFF&border_radius=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyxtopheles&layout=compact&bg_color=18181B&title_color=008088&text_color=FFFFFF&border_radius=6" height="150"/>
+</p>
 
 <table border="0">
   <tr>
