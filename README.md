@@ -3,6 +3,8 @@
 
 I push pixels. Co-founder of **Clandest.agency**.
 
+![Status](https://img.shields.io/badge/Currently%20Building-Brand%20Design%20Systems-008088?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ### 🎨 Design & Creative Stack
