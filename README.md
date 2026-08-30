@@ -5,6 +5,25 @@ I push pixels. Co-founder of **Clandest.agency**.
 
 ![Status](https://img.shields.io/badge/Currently%20Building-Brand%20Design%20Systems-008088?style=for-the-badge&logo=figma&logoColor=white)
 
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Design & Creative</h4>
+      <img src="https://img.shields.io/badge/Figma-18181B.svg?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Illustrator-008088.svg?style=flat-square&logo=adobeillustrator&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Photoshop-18181B.svg?style=flat-square&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/After%20Effects-008088.svg?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Dev & Frontend</h4>
+      <img src="https://img.shields.io/badge/HTML5-18181B.svg?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-008088.svg?style=flat-square&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-18181B.svg?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-008088.svg?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🎨 Design & Creative Stack
