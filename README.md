@@ -1,7 +1,7 @@
 # Hello, I'm Sadman Zaman Khan
 ### UI/UX & Brand Designer
 
-I push pixels. In the middle of co-founding **Clandest.agency** and operating as the sole UI/UX designer at SJ Innovation. I specialize in AI-augmented prototyping and enterprise brand systems.
+I push pixels. In the middle of co-founding **Clandest.agency** and operating as the sole UI/UX designer at SJ Innovation. I specialize in bitching the pot.
 
 <table border="0">
   <tr>
