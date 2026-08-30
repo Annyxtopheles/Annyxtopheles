@@ -3,7 +3,9 @@
 
 I push pixels. Co-founder of **Clandest.agency**.
 
-![Status](https://img.shields.io/badge/Currently%20Building-Brand%20Design%20Systems-008088?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://annyxtopheles.github.io/clandest-agency-site/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=annyxtopheles&repo=clandest-agency-site&theme=dark&bg_color=18181B&title_color=008088&icon_color=008088" width="100%" />
+</a>
 
 <table border="0">
   <tr>
