@@ -1,62 +1,53 @@
-# SADMAN ZAMAN KHAN
+```
+┌──────────────────────────────────────────────────────────────┐
+│  DOSSIER :: SADMAN ZAMAN KHAN                                │
+│  THOUGHT CABINET & INTERFACE ATELIER                         │
+└──────────────────────────────────────────────────────────────┘
+```
 
-I push pixels.  
-In the middle of co-founding **[Clandest.agency](https://clandestagency.vercel.app/)** and operating as the sole UI/UX designer at SJ Innovation.  
-I specialize in bitching the pot.
-
----
-
-### Capabilities
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Design & Creative
-* Figma & Advanced Prototyping
-* Adobe Illustrator & Photoshop
-* Design Systems (1,100+ Multi-Tier Tokens)
-* Micro-Interactions & Layout Architecture
-
-</td>
-<td width="50%" valign="top">
-
-#### Engineering & Computation
-* TypeScript / React 19 / Vite
-* Tailwind CSS
-* WebGL 2 / Custom GLSL Shaders
-* Gemini AI & Local LLM Integration
-
-</td>
-</tr>
-</table>
+> *I push pixels.*  
+> *In the middle of co-founding **[Clandest.agency](https://clandestagency.vercel.app/)** and operating as the sole UI/UX designer at SJ Innovation.*  
+> *I specialize in bitching the pot.*
 
 ---
 
-### Selected Works
+### [ 01 / OPERATING CAPABILITIES ]
 
-* **[Portfolio](https://sadmanportfolio.vercel.app/)** — Personal archive & digital interface showcase
-* **[Clandest Agency](https://clandestagency.vercel.app/)** — Boutique web & brand studio
-* **[AncestryForge](https://github.com/Annyxtopheles/ancestry-forge)** — Scalable DAG family tree graph engine
-* **[Archivest](https://github.com/Annyxtopheles/archivest)** — Thought cabinet & fiction authorship station
-* **[Aegis Credit Terminal](https://github.com/Annyxtopheles/aegis-credit-terminal)** — High-density institutional FinTech terminal
-
----
-
-### Devourment
-
-[Letterboxd](https://letterboxd.com/Annyxtopheles/) &nbsp;/&nbsp; 
-[Last.fm](https://www.last.fm/user/Asphyxtonihil) &nbsp;/&nbsp; 
-[MyAnimeList](https://myanimelist.net/profile/Annyxtopheles) &nbsp;/&nbsp; 
-YouTube *(800+ Watch Later Hoarder)*
+| Design & Creative | Systems, Dev & AI |
+| :--- | :--- |
+| `Figma` &nbsp;•&nbsp; `Adobe Illustrator` | `TypeScript` &nbsp;•&nbsp; `React` / `Vite` |
+| `Adobe Photoshop` &nbsp;•&nbsp; `Prototyping` | `Tailwind CSS` &nbsp;•&nbsp; `WebGL` / `GLSL` |
+| `Design Systems (1,100+ Tokens)` | `Gemini AI` &nbsp;•&nbsp; `Ollama` |
+| `UI/UX Architecture & Layout Engines` | `Prisma` &nbsp;•&nbsp; `PostgreSQL` / `SQLite` |
 
 ---
 
-### Links
+### [ 02 / SELECTED WORKS ]
 
-[Portfolio](https://sadmanportfolio.vercel.app/) &nbsp;·&nbsp; 
-[Clandest Agency](https://clandestagency.vercel.app/) &nbsp;·&nbsp; 
-[LinkedIn](https://www.linkedin.com/in/sadmanzamankhan/) &nbsp;·&nbsp; 
-[Facebook](https://www.facebook.com/clandest.agency) &nbsp;·&nbsp; 
-[Email](mailto:clandest.agency@gmail.com) &nbsp;·&nbsp; 
-[Linktree](https://linktr.ee/sadmanzamankhan)
+| Project | Designation | Deployment |
+| :--- | :--- | :--- |
+| **[Portfolio](https://sadmanportfolio.vercel.app/)** | Personal archive & interface showcase | `Vercel / Production` |
+| **[Clandest Agency](https://clandestagency.vercel.app/)** | Boutique digital & brand atelier | `Vercel / Production` |
+| **[AncestryForge](https://github.com/Annyxtopheles/ancestry-forge)** | Scalable DAG family tree graph engine | `GitHub Pages / React Flow` |
+| **[Archivest](https://github.com/Annyxtopheles/archivest)** | Thought cabinet & fiction authorship station | `GitHub Pages / Supabase` |
+| **[Aegis Credit Terminal](https://github.com/Annyxtopheles/aegis-credit-terminal)** | High-density institutional FinTech terminal | `GitHub Pages / Case Study` |
+
+---
+
+### [ 03 / DEVOURMENT ]
+
+- **`CINEMA   `** ── [Letterboxd](https://letterboxd.com/Annyxtopheles/)
+- **`AUDIO    `** ── [Last.fm](https://www.last.fm/user/Asphyxtonihil)
+- **`ANIMATION`** ── [MyAnimeList](https://myanimelist.net/profile/Annyxtopheles)
+- **`ARCHIVE  `** ── YouTube `[800+ Watch Later Hoarder]`
+
+---
+
+### [ 04 / COORDINATES ]
+
+**[Portfolio](https://sadmanportfolio.vercel.app/)** &nbsp;•&nbsp; 
+**[Clandest Agency](https://clandestagency.vercel.app/)** &nbsp;•&nbsp; 
+**[LinkedIn](https://www.linkedin.com/in/sadmanzamankhan/)** &nbsp;•&nbsp; 
+**[Facebook](https://www.facebook.com/clandest.agency)** &nbsp;•&nbsp; 
+**[Email](mailto:clandest.agency@gmail.com)** &nbsp;•&nbsp; 
+**[Linktree](https://linktr.ee/sadmanzamankhan)**
