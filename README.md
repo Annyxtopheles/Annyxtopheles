@@ -1,24 +1,17 @@
-```
-┌──────────────────────────────────────────────────────────────┐
-│  DOSSIER :: SADMAN ZAMAN KHAN                                │
-│  THOUGHT CABINET & INTERFACE ATELIER                         │
-└──────────────────────────────────────────────────────────────┘
-```
+# SADMAN ZAMAN KHAN
 
-> *I push pixels.*  
-> *In the middle of co-founding **[Clandest.agency](https://clandestagency.vercel.app/)** and operating as the sole UI/UX designer at SJ Innovation.*  
-> *I specialize in bitching the pot.*
+I push pixels.  
+In the middle of co-founding **[Clandest.agency](https://clandestagency.vercel.app/)** and operating as the sole UI/UX designer at SJ Innovation.  
+I specialize in bitching the pot.
 
 ---
 
 ### [ 01 / OPERATING CAPABILITIES ]
 
-| Design & Creative | Systems, Dev & AI |
+| Design & Creative | AI & Tech Stack |
 | :--- | :--- |
-| `Figma` &nbsp;•&nbsp; `Adobe Illustrator` | `TypeScript` &nbsp;•&nbsp; `React` / `Vite` |
-| `Adobe Photoshop` &nbsp;•&nbsp; `Prototyping` | `Tailwind CSS` &nbsp;•&nbsp; `WebGL` / `GLSL` |
-| `Design Systems (1,100+ Tokens)` | `Gemini AI` &nbsp;•&nbsp; `Ollama` |
-| `UI/UX Architecture & Layout Engines` | `Prisma` &nbsp;•&nbsp; `PostgreSQL` / `SQLite` |
+| `Figma` &nbsp;•&nbsp; `Adobe Illustrator` | `Google Antigravity` &nbsp;•&nbsp; `Claude` |
+| `Adobe Photoshop` &nbsp;•&nbsp; `Prototyping` | `ComfyUI` &nbsp;•&nbsp; `Replicate API` &nbsp;•&nbsp; `Ollama` |
 
 ---
 
@@ -39,15 +32,14 @@
 - **`CINEMA   `** ── [Letterboxd](https://letterboxd.com/Annyxtopheles/)
 - **`AUDIO    `** ── [Last.fm](https://www.last.fm/user/Asphyxtonihil)
 - **`ANIMATION`** ── [MyAnimeList](https://myanimelist.net/profile/Annyxtopheles)
-- **`ARCHIVE  `** ── YouTube `[800+ Watch Later Hoarder]`
 
 ---
 
 ### [ 04 / COORDINATES ]
 
 **[Portfolio](https://sadmanportfolio.vercel.app/)** &nbsp;•&nbsp; 
+**[Linktree](https://linktr.ee/sadmanzamankhan)** &nbsp;•&nbsp; 
 **[Clandest Agency](https://clandestagency.vercel.app/)** &nbsp;•&nbsp; 
 **[LinkedIn](https://www.linkedin.com/in/sadmanzamankhan/)** &nbsp;•&nbsp; 
 **[Facebook](https://www.facebook.com/clandest.agency)** &nbsp;•&nbsp; 
-**[Email](mailto:clandest.agency@gmail.com)** &nbsp;•&nbsp; 
-**[Linktree](https://linktr.ee/sadmanzamankhan)**
+**[Email](mailto:clandest.agency@gmail.com)**
