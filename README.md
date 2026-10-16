@@ -1,57 +1,62 @@
-```
-SYS_IDENT :: SZK_TERMINAL // NODE 0x255 // STATUS: ONLINE
-LOC_BASE  :: DHAKA / GLOBAL MESH
-STREAM    :: PRIMARY INTERFACE ENGINE
-```
+# SADMAN ZAMAN KHAN
 
-```
-OPERATOR   : Sadman Zaman Khan
-AFFIL_01   : Co-Founder & Interface Lead @ Clandest.agency
-AFFIL_02   : Sole UI/UX Designer @ SJ Innovation
-DIRECTIVE  : "I push pixels. I specialize in bitching the pot."
-```
+I push pixels.  
+In the middle of co-founding **[Clandest.agency](https://clandestagency.vercel.app/)** and operating as the sole UI/UX designer at SJ Innovation.  
+I specialize in bitching the pot.
 
 ---
 
-### // 01. ACTIVE TELEMETRY & RUNTIME CAPABILITIES
+### Capabilities
 
-```
-[LAYER: CREATIVE & INTERFACE]          [LAYER: RUNTIME & PROTOCOLS]
-├─ 01. Figma / Complex Prototyping     ├─ 01. TypeScript / React 19 / Vite
-├─ 02. Adobe Illustrator & Photoshop   ├─ 02. Tailwind CSS (v3 / v4)
-├─ 03. Design Systems (1,100+ Tokens)  ├─ 03. WebGL 2 / Custom GLSL Shaders
-├─ 04. UI/UX Architecture & Layouts    ├─ 04. Gemini AI / LLM Orchestration
-└─ 05. Spatial & Micro-Interactions    └─ 05. Prisma ORM / SQLite / PostgreSQL
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### Design & Creative
+* Figma & Advanced Prototyping
+* Adobe Illustrator & Photoshop
+* Design Systems (1,100+ Multi-Tier Tokens)
+* Micro-Interactions & Layout Architecture
 
-### // 02. DEPLOYED SYSTEMS MANIFEST
+</td>
+<td width="50%" valign="top">
 
-| INDEX | NODE / REPO | STATUS | ARCHITECTURE | RUNTIME URL |
-| :---: | :--- | :---: | :--- | :--- |
-| `0x01` | **[sadman-portfolio](https://sadmanportfolio.vercel.app/)** | `ONLINE` | Personal Portfolio & Showcase | [sadmanportfolio.vercel.app](https://sadmanportfolio.vercel.app/) |
-| `0x02` | **[clandest-agency](https://clandestagency.vercel.app/)** | `ONLINE` | Boutique Brand & Web Atelier | [clandestagency.vercel.app](https://clandestagency.vercel.app/) |
-| `0x03` | **[ancestry-forge](https://github.com/Annyxtopheles/ancestry-forge)** | `STABLE` | Scalable DAG Kinship Engine | [github/ancestry-forge](https://github.com/Annyxtopheles/ancestry-forge) |
-| `0x04` | **[archivest](https://github.com/Annyxtopheles/archivest)** | `STABLE` | Authorship Station & Lore UI | [github/archivest](https://github.com/Annyxtopheles/archivest) |
-| `0x05` | **[aegis-terminal](https://github.com/Annyxtopheles/aegis-credit-terminal)** | `STABLE` | FinTech High-Density Workstation | [github/aegis-credit-terminal](https://github.com/Annyxtopheles/aegis-credit-terminal) |
+#### Engineering & Computation
+* TypeScript / React 19 / Vite
+* Tailwind CSS
+* WebGL 2 / Custom GLSL Shaders
+* Gemini AI & Local LLM Integration
 
----
-
-### // 03. DEVOURMENT [INTAKE STREAM]
-
-- **`CINEMA_FEED `** ── [Letterboxd](https://letterboxd.com/Annyxtopheles/)
-- **`AUDIO_STREAM`** ── [Last.fm](https://www.last.fm/user/Asphyxtonihil)
-- **`ANIME_INDEX `** ── [MyAnimeList](https://myanimelist.net/profile/Annyxtopheles)
-- **`CACHE_HOARD `** ── YouTube `[800+ Watch Later Ledger]`
+</td>
+</tr>
+</table>
 
 ---
 
-### // 04. COMMS ROUTING & UPLINKS
+### Selected Works
 
-[Portfolio](https://sadmanportfolio.vercel.app/) &nbsp;//&nbsp; 
-[Clandest Agency](https://clandestagency.vercel.app/) &nbsp;//&nbsp; 
-[LinkedIn](https://www.linkedin.com/in/sadmanzamankhan/) &nbsp;//&nbsp; 
-[Facebook](https://www.facebook.com/clandest.agency) &nbsp;//&nbsp; 
-[Email](mailto:clandest.agency@gmail.com) &nbsp;//&nbsp; 
+* **[Portfolio](https://sadmanportfolio.vercel.app/)** — Personal archive & digital interface showcase
+* **[Clandest Agency](https://clandestagency.vercel.app/)** — Boutique web & brand studio
+* **[AncestryForge](https://github.com/Annyxtopheles/ancestry-forge)** — Scalable DAG family tree graph engine
+* **[Archivest](https://github.com/Annyxtopheles/archivest)** — Thought cabinet & fiction authorship station
+* **[Aegis Credit Terminal](https://github.com/Annyxtopheles/aegis-credit-terminal)** — High-density institutional FinTech terminal
+
+---
+
+### Devourment
+
+[Letterboxd](https://letterboxd.com/Annyxtopheles/) &nbsp;/&nbsp; 
+[Last.fm](https://www.last.fm/user/Asphyxtonihil) &nbsp;/&nbsp; 
+[MyAnimeList](https://myanimelist.net/profile/Annyxtopheles) &nbsp;/&nbsp; 
+YouTube *(800+ Watch Later Hoarder)*
+
+---
+
+### Links
+
+[Portfolio](https://sadmanportfolio.vercel.app/) &nbsp;·&nbsp; 
+[Clandest Agency](https://clandestagency.vercel.app/) &nbsp;·&nbsp; 
+[LinkedIn](https://www.linkedin.com/in/sadmanzamankhan/) &nbsp;·&nbsp; 
+[Facebook](https://www.facebook.com/clandest.agency) &nbsp;·&nbsp; 
+[Email](mailto:clandest.agency@gmail.com) &nbsp;·&nbsp; 
 [Linktree](https://linktr.ee/sadmanzamankhan)
