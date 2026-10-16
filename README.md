@@ -4,8 +4,15 @@ I specialize in bitching the pot.
 
 ---
 
-`Figma` &nbsp;•&nbsp; `Adobe Illustrator` &nbsp;•&nbsp; `Photoshop` &nbsp;•&nbsp; `Prototyping`  
-`Google Antigravity` &nbsp;•&nbsp; `Claude` &nbsp;•&nbsp; `ComfyUI` &nbsp;•&nbsp; `Replicate API` &nbsp;•&nbsp; `Ollama`
+![Figma](https://img.shields.io/badge/Figma-18181B.svg?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-008088.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-18181B.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-008088.svg?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-18181B.svg?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-008088.svg?style=flat-square&logo=anthropic&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-18181B.svg?style=flat-square)
+![Replicate](https://img.shields.io/badge/Replicate-008088.svg?style=flat-square&logo=replicate&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-18181B.svg?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
@@ -13,12 +20,10 @@ I specialize in bitching the pot.
 **[Clandest Agency](https://clandestagency.vercel.app/)** &nbsp;—&nbsp; Boutique digital & brand atelier  
 **[AncestryForge](https://github.com/Annyxtopheles/ancestry-forge)** &nbsp;—&nbsp; Scalable DAG family tree graph engine  
 **[Archivest](https://github.com/Annyxtopheles/archivest)** &nbsp;—&nbsp; Thought cabinet & fiction authorship station  
-**[Aegis Credit Terminal](https://github.com/Annyxtopheles/aegis-credit-terminal)** &nbsp;—&nbsp; High-density institutional FinTech terminal
+**[Aegis Credit Terminal](https://github.com/Annyxtopheles/aegis-credit-terminal)** &nbsp;—&nbsp; High-density institutional FinTech terminal  
 
 ---
 
-**Devourment** &nbsp;—&nbsp; [Letterboxd](https://letterboxd.com/Annyxtopheles/) &nbsp;•&nbsp; [Last.fm](https://www.last.fm/user/Asphyxtonihil) &nbsp;•&nbsp; [MyAnimeList](https://myanimelist.net/profile/Annyxtopheles)
+**Devourment** &nbsp; [![Letterboxd](https://img.shields.io/badge/Letterboxd-18181B.svg?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/Annyxtopheles/) [![Last.fm](https://img.shields.io/badge/Last.fm-008088.svg?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Asphyxtonihil) [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-18181B.svg?style=flat-square&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Annyxtopheles)
 
----
-
-[Portfolio](https://sadmanportfolio.vercel.app/) &nbsp;•&nbsp; [Linktree](https://linktr.ee/sadmanzamankhan) &nbsp;•&nbsp; [Clandest Agency](https://clandestagency.vercel.app/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/sadmanzamankhan/) &nbsp;•&nbsp; [Facebook](https://www.facebook.com/clandest.agency) &nbsp;•&nbsp; [Email](mailto:clandest.agency@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008088.svg?style=flat-square&logo=vercel&logoColor=white)](https://sadmanportfolio.vercel.app/) [![Linktree](https://img.shields.io/badge/Linktree-18181B.svg?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/sadmanzamankhan) [![Clandest](https://img.shields.io/badge/Clandest-008088.svg?style=flat-square)](https://clandestagency.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadmanzamankhan/) [![Facebook](https://img.shields.io/badge/Facebook-008088.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/clandest.agency) [![Email](https://img.shields.io/badge/Email-18181B.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:clandest.agency@gmail.com)
